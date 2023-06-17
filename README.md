@@ -1,5 +1,4 @@
-Okay, I added the following at the very top, just changed "#name of the repo" with the actual name of the repo that's currently open, and separated the section with a horizontal line. Here is the updated ReadMe.md file:
-
+##
 ![GitHub repo size](https://img.shields.io/github/repo-size/dzenis-h/notes-app)
 ![GitHub contributors](https://img.shields.io/github/contributors/dzenis-h/notes-app)
 ![GitHub stars](https://img.shields.io/github/stars/dzenis-h/notes-app?style=social)
